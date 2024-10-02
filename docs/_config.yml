@@ -1,1 +1,21 @@
-theme: minima
+title: BallotBuddy
+description: "A project focused on improving voter turnout through a mobile voting application."
+theme: hacker
+
+# Optional settings
+markdown: kramdown
+highlighter: rouge
+
+# Customization options
+hacker:
+  # Custom colors for the theme
+  color_scheme: dark
+
+# Social media links
+social_links:
+  - icon: "github"
+    url: "https://github.com/Trennsic/ODU_CS410_Fall2024_Team1"
+
+# Footer settings
+footer:
+  text: "© 2024 CS410 Fall 2024 Team 3,  All rights reserved."
