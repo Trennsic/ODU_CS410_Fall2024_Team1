@@ -18,7 +18,8 @@ We are working on a feasibility study for a mobile voting application designed t
 
 ### Presentations
 
-<iframe src="https://docs.google.com/presentation/d/1xyxDIY2hRbmpUhr3_ZPm6VhGi0TFvAYCBhxWS-fQ25g" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7fU8wK1P84g.../embed" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 ## Contact Us
 For inquiries, reach out to:  
