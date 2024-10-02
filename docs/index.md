@@ -17,7 +17,8 @@ I’m a senior pursuing a Bachelor of Science in Computer Science. I work as a d
 We are working on a feasibility study for a mobile voting application designed to streamline the voting process and increase participation, especially among younger voters.
 
 ### Presentations
-<iframe src="[https://docs.google.com/presentation/d/e/YOUR_PRESENTATION_ID/embed](https://docs.google.com/presentation/d/1xyxDIY2hRbmpUhr3_ZPm6VhGi0TFvAYCBhxWS-fQ25g/edit?usp=sharing)" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7fU8wK1P84g.../embed" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 ## Contact Us
 For inquiries, reach out to:  
